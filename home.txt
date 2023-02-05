@@ -1,1 +1,1 @@
-This is the home page. This is current working directory. 
+This is the home page. This is current working directory. You are now on home page
