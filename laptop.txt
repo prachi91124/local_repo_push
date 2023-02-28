@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Laptop has became an essential part of our lives.
-=======
-laptops
->>>>>>> feature
+
